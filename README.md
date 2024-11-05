@@ -55,10 +55,6 @@ With extensive experience in LLM, RAG, machine learning, and web application dev
             <br>Express
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="Nestjs"/>
-            <br>NestJS
-        </td>
-        <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP"/>
             <br>PHP
         </td>
@@ -101,10 +97,6 @@ With extensive experience in LLM, RAG, machine learning, and web application dev
             <br>Tailwind
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="Materialui"/>
-            <br>MaterialUI
-        </td>
-        <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="48" height="48"/>
             <br>Webpack
         </td>
@@ -121,10 +113,6 @@ With extensive experience in LLM, RAG, machine learning, and web application dev
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/>
             <br>MongoDB
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite"/>
-            <br>SQLite
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=cassandra" width="48" height="48" alt="Cassandra"/>
@@ -165,10 +153,6 @@ With extensive experience in LLM, RAG, machine learning, and web application dev
             <br>Selenium
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="Opencv"/>
-            <br>Opencv
-        </td>
-        <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nginx" width="48" height="48"/>
             <br>Nginx
         </td>
@@ -199,7 +183,7 @@ With extensive experience in LLM, RAG, machine learning, and web application dev
 <hr/>
 
 ### &nbsp; ⌛ Other Knowledge, Always Learning
-<
+<>
     ![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)&nbsp;
     ![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
     ![NestJS](https://img.shields.io/badge/NESTJS-E0234E.svg?&style=flat&logo=nestjs&logoColor=white)&nbsp;
@@ -231,6 +215,6 @@ With extensive experience in LLM, RAG, machine learning, and web application dev
     ![Cryptocurrencies](https://img.shields.io/badge/CRYPTOCURRENCY-00979D.svg?&style=flat&logo=cryptocurrency&logoColor=black)&nbsp;
     ![Bitcoin](https://img.shields.io/badge/BITCOIN-0769AD.svg?&style=flat&logo=bitcoin&logoColor=black)&nbsp;
     ![Ethereum](https://img.shields.io/badge/ETHEREUM-3C3C3D.svg?&style=flat&logo=ethereum&logoColor=white)&nbsp;
-/>
+</>
 <br>
 <hr/>
