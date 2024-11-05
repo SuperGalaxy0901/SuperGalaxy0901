@@ -183,19 +183,19 @@ With extensive experience in LLM, RAG, machine learning, and web application dev
 <hr/>
 
 ### &nbsp; ⌛ Strong expertise, Always Learning
-<center>
   <br/>
 
-![OpenAI API](https://img.shields.io/badge/Platform-OpenAI%20API-lightgrey?&style=flat&logo=openai&logoColor=white)&nbsp;  
-![Retrieval Augmented Generation](https://img.shields.io/badge/Tech-Retrieval%20Augmented%20Generation-lightgrey)&nbsp;  
-![LangChain](https://img.shields.io/badge/Tool-LangChain-blue?&style=flat)&nbsp;  
-![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red?&style=flat&logo=streamlit&logoColor=white)&nbsp;  
-![Chatbot](https://img.shields.io/badge/Application-Chatbot-lightgrey)&nbsp;  
-![Docker](https://img.shields.io/badge/Platform-Docker-blue?&style=flat&logo=docker&logoColor=white)&nbsp;  
-![CI/CD](https://img.shields.io/badge/Tech-CI%2FCD-lightgrey)&nbsp;  
-![Nginx](https://img.shields.io/badge/Server-Nginx-green?&style=flat&logo=nginx&logoColor=white)&nbsp;  
-![Docker](https://img.shields.io/badge/Platform-Docker-blue?&style=flat&logo=docker&logoColor=white)&nbsp;  
+![OpenAI API](https://img.shields.io/badge/Platform-OpenAI%20API-lightgrey?&style=flat&logo=openai&logoColor=white)&nbsp;
+![Retrieval Augmented Generation](https://img.shields.io/badge/Tech-Retrieval%20Augmented%20Generation-lightgrey)&nbsp;
+![LangChain](https://img.shields.io/badge/Tool-LangChain-blue?&style=flat)&nbsp;
+![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red?&style=flat&logo=streamlit&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Platform-Docker-blue?&style=flat&logo=docker&logoColor=white)&nbsp;
+![CI/CD](https://img.shields.io/badge/Tech-CI%2FCD-lightgrey)&nbsp;
+![Nginx](https://img.shields.io/badge/Server-Nginx-green?&style=flat&logo=nginx&logoColor=white)&nbsp;
 
 <br>
-</center>
 <hr/>
+
+  <summary>Github Stats</summary>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fhuadeen" alt="fhuadeen" /></a> </p>
