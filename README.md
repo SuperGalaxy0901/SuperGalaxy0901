@@ -182,7 +182,7 @@ With extensive experience in LLM, RAG, machine learning, and web application dev
 <br>
 <hr/>
 
-### &nbsp; ⌛ Other Knowledge, Always Learning
+### &nbsp; ⌛ Strong expertise, Always Learning
   <br/>
 
 ![OpenAI API](https://img.shields.io/badge/Platform-OpenAI%20API-lightgrey?&style=flat&logo=openai&logoColor=white)&nbsp;
