@@ -183,6 +183,7 @@ With extensive experience in LLM, RAG, machine learning, and web application dev
 <hr/>
 
 ### &nbsp; ⌛ Strong expertise, Always Learning
+<center>
   <br/>
 
 ![OpenAI API](https://img.shields.io/badge/Platform-OpenAI%20API-lightgrey?&style=flat&logo=openai&logoColor=white)&nbsp;
@@ -207,4 +208,5 @@ With extensive experience in LLM, RAG, machine learning, and web application dev
 ![Google Cloud Platform](https://img.shields.io/badge/Platform-GCP-orange?&style=flat&logo=googlecloud&logoColor=white)&nbsp;
 
 <br>
+</center>
 <hr/>
