@@ -186,26 +186,15 @@ With extensive experience in LLM, RAG, machine learning, and web application dev
 <center>
   <br/>
 
-![OpenAI API](https://img.shields.io/badge/Platform-OpenAI%20API-lightgrey?&style=flat&logo=openai&logoColor=white)&nbsp;
-![LangChain](https://img.shields.io/badge/Tool-LangChain-blue?&style=flat)&nbsp;
-![Retrieval Augmented Generation](https://img.shields.io/badge/Tech-Retrieval%20Augmented%20Generation-lightgrey)&nbsp;
-![Chatbot](https://img.shields.io/badge/Application-Chatbot-lightgrey)&nbsp;
-![Python](https://img.shields.io/badge/Language-Python-blue?&style=flat&logo=python&logoColor=white)&nbsp;
-![FastAPI](https://img.shields.io/badge/Framework-FastAPI-green?&style=flat&logo=fastapi&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/Framework-Django-green?&style=flat&logo=django&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue?&style=flat&logo=postgresql&logoColor=white)&nbsp;
-![Flask](https://img.shields.io/badge/Framework-Flask-green?&style=flat&logo=flask&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/Library-React-blue?&style=flat&logo=react&logoColor=white)&nbsp;
-![Next.js](https://img.shields.io/badge/Framework-Next.js-black?&style=flat&logo=next.js&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Platform-Docker-blue?&style=flat&logo=docker&logoColor=white)&nbsp;
-![CI/CD](https://img.shields.io/badge/Tech-CI%2FCD-lightgrey)&nbsp;
-![Amazon Web Services](https://img.shields.io/badge/Platform-AWS-orange?&style=flat&logo=amazonaws&logoColor=white)&nbsp;
-![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red?&style=flat&logo=streamlit&logoColor=white)&nbsp;
-![Nginx](https://img.shields.io/badge/Server-Nginx-green?&style=flat&logo=nginx&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Platform-Docker-blue?&style=flat&logo=docker&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/Platform-Kubernetes-blue?&style=flat&logo=kubernetes&logoColor=white)&nbsp;
-![Microsoft Azure](https://img.shields.io/badge/Platform-Azure-blue?&style=flat&logo=microsoftazure&logoColor=white)&nbsp;
-![Google Cloud Platform](https://img.shields.io/badge/Platform-GCP-orange?&style=flat&logo=googlecloud&logoColor=white)&nbsp;
+![OpenAI API](https://img.shields.io/badge/Platform-OpenAI%20API-lightgrey?&style=flat&logo=openai&logoColor=white)&nbsp;  
+![Retrieval Augmented Generation](https://img.shields.io/badge/Tech-Retrieval%20Augmented%20Generation-lightgrey)&nbsp;  
+![LangChain](https://img.shields.io/badge/Tool-LangChain-blue?&style=flat)&nbsp;  
+![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red?&style=flat&logo=streamlit&logoColor=white)&nbsp;  
+![Chatbot](https://img.shields.io/badge/Application-Chatbot-lightgrey)&nbsp;  
+![Docker](https://img.shields.io/badge/Platform-Docker-blue?&style=flat&logo=docker&logoColor=white)&nbsp;  
+![CI/CD](https://img.shields.io/badge/Tech-CI%2FCD-lightgrey)&nbsp;  
+![Nginx](https://img.shields.io/badge/Server-Nginx-green?&style=flat&logo=nginx&logoColor=white)&nbsp;  
+![Docker](https://img.shields.io/badge/Platform-Docker-blue?&style=flat&logo=docker&logoColor=white)&nbsp;  
 
 <br>
 </center>
