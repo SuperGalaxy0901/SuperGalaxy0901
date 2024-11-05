@@ -199,7 +199,12 @@ With extensive experience in LLM, RAG, machine learning, and web application dev
 ![Docker](https://img.shields.io/badge/Platform-Docker-blue?&style=flat&logo=docker&logoColor=white)&nbsp;
 ![CI/CD](https://img.shields.io/badge/Tech-CI%2FCD-lightgrey)&nbsp;
 ![Amazon Web Services](https://img.shields.io/badge/Platform-AWS-orange?&style=flat&logo=amazonaws&logoColor=white)&nbsp;
-![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red?&style=flat&logo=streamlit&logoColor=white)&nbsp; 
+![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red?&style=flat&logo=streamlit&logoColor=white)&nbsp;
+![Nginx](https://img.shields.io/badge/Server-Nginx-green?&style=flat&logo=nginx&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Platform-Docker-blue?&style=flat&logo=docker&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Platform-Kubernetes-blue?&style=flat&logo=kubernetes&logoColor=white)&nbsp;
+![Microsoft Azure](https://img.shields.io/badge/Platform-Azure-blue?&style=flat&logo=microsoftazure&logoColor=white)&nbsp;
+![Google Cloud Platform](https://img.shields.io/badge/Platform-GCP-orange?&style=flat&logo=googlecloud&logoColor=white)&nbsp;
 
 <br>
 <hr/>
