@@ -198,4 +198,4 @@ With extensive experience in LLM, RAG, machine learning, and web application dev
 
 ### 📊 Github Stats
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fhuadeen" alt="fhuadeen" /></a> </p>
+<p align="left"> <a href="https://github.com/SuperGalaxy0901"><img src="https://github-profile-trophy.vercel.app/?username=fhuadeen" alt="fhuadeen" /></a> </p>
