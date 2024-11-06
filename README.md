@@ -200,4 +200,12 @@ With extensive experience in LLM, RAG, machine learning, and web application dev
 
 ### 📊 Github Stats
 
-<p align="left"> <a href="https://github.com/SuperGalaxy0901"><img src="https://github-profile-trophy.vercel.app/?username=fhuadeen" alt="fhuadeen" /></a> </p>
+<div style="display:flex; gap:4px; justify-content:center; align-items:center">
+
+![SuperGalaxy0901's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SuperGalaxy0901&theme=highcontrast&hide_border=true) ![SuperGalaxy0901's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperGalaxy0901&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+
+</div>
+
+<p align="center">
+     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
