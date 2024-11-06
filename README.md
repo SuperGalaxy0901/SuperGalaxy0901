@@ -1,4 +1,6 @@
-# 🏆Generative AI | Full Stack Expert🏆
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+
+<h1 align="center">🏆Generative AI | Full Stack Expert🏆</h1>
 
 ## 🎉Greeting🎉
 I'm a seasoned Generative AI expert with full-stack development expertise.
