@@ -186,7 +186,7 @@ With extensive experience in LLM, RAG, machine learning, and web application dev
   <br/>
 
 ![OpenAI API](https://img.shields.io/badge/Platform-OpenAI%20API-lightgrey?&style=flat&logo=openai&logoColor=white)&nbsp;
-![RAG](https://img.shields.io/badge/Tech-Retrieval%20Augmented%20Generation-lightgrey)&nbsp;
+![RAG](https://img.shields.io/badge/Tech-RAG-lightgrey)&nbsp;
 ![LangChain](https://img.shields.io/badge/Tool-LangChain-blue?&style=flat)&nbsp;
 ![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red?&style=flat&logo=streamlit&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Platform-Docker-blue?&style=flat&logo=docker&logoColor=white)&nbsp;
