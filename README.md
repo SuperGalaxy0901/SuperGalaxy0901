@@ -200,9 +200,12 @@ With extensive experience in LLM, RAG, machine learning, and web application dev
 
 ### 📊 Github Stats
 
-<div style="display:flex; gap:4px; justify-content:center; align-items:center">
+<div style="display:flex; gap:4px; justify-content:center; align-items:center; width: 100%">
 
-![SuperGalaxy0901's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SuperGalaxy0901&theme=highcontrast&hide_border=true) ![SuperGalaxy0901's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperGalaxy0901&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuperGalaxy0901&theme=highcontrast&hide_border=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperGalaxy0901&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8" />
+</p>
 
 </div>
 
