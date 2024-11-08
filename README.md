@@ -209,6 +209,7 @@ With extensive experience in LLM, RAG, machine learning, and web application dev
 
 </div>
 
+<hr/>
 
 ### 🏆 My GitHub Profile Trophy
 
