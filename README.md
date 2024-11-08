@@ -209,6 +209,11 @@ With extensive experience in LLM, RAG, machine learning, and web application dev
 
 </div>
 
+
+### 🏆 My GitHub Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SuperGalaxy0901&theme=gruvbox&no-frame=true&margin-w=5&margin-h=5)](https://github.com/devpioneer007)
+
 <p align="center">
      <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
